@@ -108,8 +108,8 @@ From the results above, we can see that the CNN model's accuracy has improved wi
 
 
 ## References
-https://ieeexplore.ieee.org/document/9589099
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9589099
+1. https://ieeexplore.ieee.org/document/9589099
+2. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9589099
 
 
 
